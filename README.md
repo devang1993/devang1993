@@ -4,14 +4,16 @@
   <p>🌱 I’m currently learning MLOps</p>
   <p>📫 How to reach me</p>
   <div id="badge">
-     <a href="https://www.linkedin.com/in/devangrm">
-        <img src="https://img.shields.io/badge/Devang-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-      </a>
-      <a href="https://www.xing.com/profile/DevangRoopesh_Mehta">
-        <img src="https://img.shields.io/badge/Devang-green?style=for-the-badge&logo=xing&logoColor=white" alt="Xing Badge"/>
-      </a>
-      </li>
-    </ul>
+    <a href="https://slack-devang.slack.com/archives/C05S54BP7M3">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="40" height="40"/>
+    </a>
+    <p></p>
+    <a href="https://www.linkedin.com/in/devangrm">
+      <img src="https://img.shields.io/badge/Devang-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://www.xing.com/profile/DevangRoopesh_Mehta">
+      <img src="https://img.shields.io/badge/Devang-green?style=for-the-badge&logo=xing&logoColor=white" alt="Xing Badge"/>
+    </a>
   </div>
   <h2>Tools</h2>
   <div id="tools">
