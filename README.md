@@ -40,6 +40,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
+    <img src="https://matplotlib.org/_static/logo_dark.svg" title="matplotlib" alt="matplotlib" width="120" height="40"/>&nbsp;
     <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" title="scikit-learn" alt="scikit-learn" width="120" height="40"/>&nbsp;
     <!-- softwares -->
     <p></p>
