@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1>Hi there 👋</h1>
-  <p>🔭 I’m currently working on a cross-platform desktop application</p>
+  <p>🔭 I’m currently working on a cross-platform development</p>
   <p>🌱 I’m currently learning MLOps</p>
   <p>📫 How to reach me</p>
   <div id="badge">
